@@ -220,6 +220,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-**Built with ❤️ by Hamza**
+**Built with ❤️ by Sajid**
 
 
